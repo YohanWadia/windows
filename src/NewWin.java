@@ -1,7 +1,8 @@
 public class NewWin {
     int screenXY;
 
-    public void WinScreen(){
+    public void Win8_ScreenPatch(){
         //better resolution
     }
+
 }
