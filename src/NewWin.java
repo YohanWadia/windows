@@ -5,12 +5,9 @@ public class NewWin {
         //better resolution
     }
 
-    public void Win8_ScreenPatch(){
-        //resolution for WIN 8 solved!!!
+    public void Win8_HD(){
+        //.... everything works!
     }
 
-    public void WinHD(){
-        //hd for all windows
-    }
 
 }
