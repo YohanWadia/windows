@@ -7,4 +7,8 @@ public class WinFeatures {
     public void winUpdate2(){
         //special update
     }
+
+    public void superUpdate(){
+        //even better...
+    }
 }
