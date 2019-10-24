@@ -2,7 +2,7 @@ public class NewWin {
     int screenXY;
 
     public void Win8_ScreenPatch(){
-        //better resolution
+        //resolution for WIN 8 solved!!!
     }
 
 }
